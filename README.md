@@ -44,38 +44,45 @@ ___
 --> In the "Add Evidence Item" dialog box, select "Physical Drive" and click on the "Browse" button to select the drive containing the DataStream.
 </p>
 <img src="assets/Screenshot (5).png" alt="FTK Imager" >
+
 ___
 --> Once the drive is selected, click on the "Finish" button to add the drive to FTK Imager.
 <img src="assets/Screenshot (7).png" alt="FTK Imager" >
-___
+
 <p>
 --> Now click on "create disk image". The "Create Disk Image" option in FTK Imager allows you to create a forensic image of a physical drive or logical volume. A disk image is an exact copy of the original source drive, including all files, folders, and system information. The purpose of creating a disk image is to preserve the original data and maintain its integrity for forensic analysis.
 </p>
 <img src="assets/Screenshot (9).png" alt="FTK Imager" >
+
 ___
 <p>
 --> Select the source of disk whose image is to be created.
 </p>
 <img src="assets/Screenshot (10).png" alt="FTK Imager" >
+
 ___
 <p>
 --> Enter the evidence item information.
 </p>
 <img src="assets/Screenshot (13).png" alt="FTK Imager" >
+
 ___
 <p>
 --> Select the image destination by browsing the path.
 </p>
 <img src="assets/Screenshot (14).png" alt="FTK Imager" >
+
 ___
 <p>
 --> Verify the image: It's important to verify the integrity of the image to ensure that it's an exact copy of the original source. To do this, you can use the "Verify Image" option in FTK Imager and compare the hash values of the original drive and the image file.
 </p>
 <img src="assets/Screenshot (17).png" alt="FTK Imager" >
+
 ___
 <p>--> In the "Mount Image" dialog box, select the drive letter that you want to assign to the mounted image. You can also select other mount options such as read-only mode or volume shadow copy.
 </p>
 <img src="assets/Screenshot (20).png" alt="FTK Imager" >
+
 ___
 <p>
 --> Click on the "Mount" button to mount the image file.
@@ -84,7 +91,9 @@ ___
 
 --> You can now access the files and data within the mounted image and perform any necessary analysis or examination.
 </p>
+
 ___
+
 <p>
 --> Now the result will be exported.
 --> Right-click on the "DataStream" folder and select "Export File List." Choose a location to save the file list and click "OK."
@@ -92,6 +101,7 @@ ___
 --> In the "Export File List" dialog box, select "All Files" and click on the "Export" button.</p>
 
 <img src="assets/Screenshot (25).png" alt="FTK Imager" >
+
 ___
 <p>
 --> Use the search function in the text editor to search for video file extensions such as .avi, .mp4, .mov, etc.
@@ -100,6 +110,7 @@ ___
 
 --> Once you have found potential video files, you can view them in FTK Imager by right-clicking on the file in the "Case Explorer" window and selecting "View File."
 </p>
+
 ___
 
 
