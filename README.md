@@ -8,7 +8,7 @@ Explore any other five features from the same software.
 
 <p>
 <ul>
-<l>Use an open-source tool to find partial and full multimedia files, specifically video files, in a given data stream.</l>
+<l># Use an open-source tool to find partial and full multimedia files, specifically video files, in a given data stream.</l>
 
 <l>Explore five other features of the same software.</l>
 </ul>
@@ -39,5 +39,18 @@ Overall, FTK Imager is a reliable and efficient tool for finding multimedia file
 <img src="assets/Screenshot (25).png" alt="FTK Imager" >
 ___
 <h3> Step by Step process of the project </h3>
-<img src="assets/Screenshot (5).png" alt="FTK Imager" >
+<p> --> Open FTK Imager and click on the "File" menu, then select "Add Evidence Item."
 
+--> In the "Add Evidence Item" dialog box, select "Physical Drive" and click on the "Browse" button to select the drive containing the DataStream.
+</p>
+<img src="assets/Screenshot (5).png" alt="FTK Imager" >
+--> Once the drive is selected, click on the "Finish" button to add the drive to FTK Imager.
+<img src="assets/Screenshot (7).png" alt="FTK Imager" >
+<p>
+--> Now click on "create disk image". The "Create Disk Image" option in FTK Imager allows you to create a forensic image of a physical drive or logical volume. A disk image is an exact copy of the original source drive, including all files, folders, and system information. The purpose of creating a disk image is to preserve the original data and maintain its integrity for forensic analysis.
+</p>
+<img src="assets/Screenshot (9).png" alt="FTK Imager" >
+<p>
+--> Select the source of disk whose image is to be created.
+</p>
+<img src="assets/Screenshot (10).png" alt="FTK Imager" >
