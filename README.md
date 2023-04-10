@@ -54,3 +54,19 @@ ___
 --> Select the source of disk whose image is to be created.
 </p>
 <img src="assets/Screenshot (10).png" alt="FTK Imager" >
+<p>
+--> Enter the evidence item information.
+</p>
+<img src="assets/Screenshot (13).png" alt="FTK Imager" >
+<p>
+--> Select the image destination by browsing the path.
+</p>
+<img src="assets/Screenshot (14).png" alt="FTK Imager" >
+<p>
+Verify the image: It's important to verify the integrity of the image to ensure that it's an exact copy of the original source. To do this, you can use the "Verify Image" option in FTK Imager and compare the hash values of the original drive and the image file.
+</p>
+<img src="assets/Screenshot (17).png" alt="FTK Imager" >
+<p>In the "Mount Image" dialog box, select the drive letter that you want to assign to the mounted image. You can also select other mount options such as read-only mode or volume shadow copy.
+</p>
+<img src="assets/Screenshot (20).png" alt="FTK Imager" >
+
