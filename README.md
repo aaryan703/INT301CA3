@@ -37,3 +37,7 @@ In addition to its multimedia file search capabilities, FTK Imager offers severa
 Overall, FTK Imager is a reliable and efficient tool for finding multimedia files in data streams. Its comprehensive search capabilities, user-friendly interface, and advanced features make it a valuable tool for digital forensic investigations.
 </p>
 <img src="assets/Screenshot (25).png" alt="FTK Imager" >
+___
+<h3> Step by Step process of the project </h3>
+<img src="assets/Screenshot (5).png" alt="FTK Imager" >
+
