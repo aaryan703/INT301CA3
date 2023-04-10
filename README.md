@@ -25,5 +25,15 @@ By exploring these features, you can gain a deeper understanding of the capabili
 
 ___
 
-<h3>Description</h3>
-<p></p>
+<h3>Description Of The Entire Project</h3>
+<img src="assets/Screenshot (2).png" alt="FTK Imager" >
+
+<p>FTK Imager is a powerful open-source forensic tool used for analyzing digital data in investigations. It allows users to extract data from hard drives, disk images, and other digital storage devices. One of the main features of FTK Imager is its ability to search for multimedia files, specifically video files, in a given data stream.
+
+Using FTK Imager, users can search for both partial and full multimedia files in a data stream. The software provides a user-friendly interface and supports a wide range of file formats, including MP4, AVI, WMV, and MOV. It also includes advanced search features, such as the ability to filter search results by file type, size, and creation date.
+
+In addition to its multimedia file search capabilities, FTK Imager offers several other features that make it a valuable tool for digital forensics investigations. These include the ability to create and analyze disk images, recover deleted files, and analyze internet history and email artifacts. It also provides tools for metadata analysis, keyword searching, and timeline analysis, which can help investigators reconstruct a sequence of events.
+
+Overall, FTK Imager is a reliable and efficient tool for finding multimedia files in data streams. Its comprehensive search capabilities, user-friendly interface, and advanced features make it a valuable tool for digital forensic investigations.
+</p>
+<img src="assets/Screenshot (25).png" alt="FTK Imager" >
