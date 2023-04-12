@@ -39,6 +39,12 @@ Overall, FTK Imager is a reliable and efficient tool for finding multimedia file
 <img src="assets/Screenshot (25).png" alt="FTK Imager" >
 ___
 <h3> Step by Step process of the project </h3>
+<p>--> First step, choosed the multimedia data which is to be found and recovered.
+</p>
+<img src="assets/Screenshot (3).png" alt="FTK Imager" >
+
+___
+
 <p> --> Open FTK Imager and click on the "File" menu, then select "Add Evidence Item."
 
 --> In the "Add Evidence Item" dialog box, select "Physical Drive" and click on the "Browse" button to select the drive containing the DataStream.
